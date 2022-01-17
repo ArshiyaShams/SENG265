@@ -1,0 +1,3 @@
+Assignment 3 Work
+
+similar to assignment 1, however now we also use memory allocation
